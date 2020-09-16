@@ -3,6 +3,7 @@ import json
 import logging
 import os
 import pickle
+import sys
 from time import sleep
 
 import caiman as cm
@@ -77,6 +78,7 @@ def run_cnmfe(
 ):
     caiman_path = os.path.abspath(cm.__file__)
     print(f'caiman location: {caiman_path}')
+    sys.stdout.flush()
 
     # load and update the pipeline settings
     mc_parameters = DEFAULT_MCORR_SETTINGS
@@ -110,6 +112,9 @@ def run_cnmfe(
         dview = None
         n_processes = 1
 
+    print('starting cnmfe')
+    sys.stdout.flush()
+    
     cnm = cnmf.CNMF(n_processes, params=opts, dview=dview)
     cnm.fit_file(motion_correct=False)
 
