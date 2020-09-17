@@ -1,0 +1,11 @@
+{
+    "fr": 20,
+    "decay_time": 0.4,
+    "pw_rigid": true,
+    "max_shifts": [10, 10],
+    "gSig_filt": [8, 9],
+    "strides": [32, 32],
+    "overlaps": [16, 16],
+    "max_deviation_rigid": [3],
+    "border_nan": "copy"
+}

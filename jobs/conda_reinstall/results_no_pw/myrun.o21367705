@@ -1,0 +1,46 @@
+moving files
+analysis
+MKL: 1
+blas: 1
+vec: 1
+caiman path: /scicore/home/donafl00/yamauc0000/.conda/envs/caiman-reinstall/lib/python3.7/site-packages/caiman/__init__.py
+['/scratch/yamauc0000/slurm-job.21367705/DON001646_20200616_test3_preprocessed_5min_0.tiff', '/scratch/yamauc0000/slurm-job.21367705/DON001646_20200616_test3_preprocessed_5min_1.tiff', '/scratch/yamauc0000/slurm-job.21367705/DON001646_20200616_test3_preprocessed_5min_2.tiff', '/scratch/yamauc0000/slurm-job.21367705/DON001646_20200616_test3_preprocessed_5min_3.tiff', '/scratch/yamauc0000/slurm-job.21367705/DON001646_20200616_test3_preprocessed_5min_4.tiff', '/scratch/yamauc0000/slurm-job.21367705/DON001646_20200616_test3_preprocessed_5min_5.tiff']
+starting server
+3
+motion corr
+writing mmap
+stopping server
+loading mmap
+starting server
+3
+cnmf
+evaluate components
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/test-caiman/jobs/conda_reinstall
+saving results
+stopping server
