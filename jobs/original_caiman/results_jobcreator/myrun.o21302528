@@ -1,0 +1,105 @@
+moving files
+analysis
+MKL: 1
+blas: 1
+vec: 1
+['/scratch/yamauc0000/slurm-job.21302528/DON001646_20200616_test3_preprocessed_5min_0.tiff', '/scratch/yamauc0000/slurm-job.21302528/DON001646_20200616_test3_preprocessed_5min_1.tiff', '/scratch/yamauc0000/slurm-job.21302528/DON001646_20200616_test3_preprocessed_5min_2.tiff', '/scratch/yamauc0000/slurm-job.21302528/DON001646_20200616_test3_preprocessed_5min_3.tiff', '/scratch/yamauc0000/slurm-job.21302528/DON001646_20200616_test3_preprocessed_5min_4.tiff', '/scratch/yamauc0000/slurm-job.21302528/DON001646_20200616_test3_preprocessed_5min_5.tiff']
+starting server
+3
+motion corr
+writing mmap
+stopping server
+loading mmap
+starting server
+3
+cnmf
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
+cluster temporary folder: /scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/permissive_settings_pw_all
