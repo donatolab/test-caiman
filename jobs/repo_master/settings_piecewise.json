@@ -1,0 +1,9 @@
+{
+   "data_path":"/scicore/home/donafl00/yamauc0000/maria_data/short_movie/split_file/",
+   "job_name":"jobcreator_repo_master",
+   "email":"kevin.yamauchi@unibas.ch",
+   "n_cpu": 4,
+   "mem_per_cpu": 50,
+   "cnmf_settings_file": "cnmf_settings.json",
+   "mc_settings_file": "mcorr_settings.json"
+}
